@@ -1,0 +1,59 @@
+{
+  "name": "CirQuizz",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@react-native-community/netinfo": "^3.2.1",
+    "geolib": "^3.0.3",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "native-base": "^2.12.1",
+    "react": "16.8.3",
+    "react-native": "0.59.9",
+    "react-native-default-preference": "^1.3.2",
+    "react-native-dialog": "^5.6.0",
+    "react-native-fontawesome": "^6.0.1",
+    "react-native-gesture-handler": "^1.3.0",
+    "react-native-gps-state": "^2.0.3",
+    "react-native-htmlview": "^0.14.0",
+    "react-native-i18n": "^2.0.15",
+    "react-native-local-mongodb": "^2.2.9",
+    "react-native-localize": "^1.1.3",
+    "react-native-map-clustering": "^1.3.2",
+    "react-native-maps": "^0.24.2",
+    "react-native-modal": "^11.0.1",
+    "react-native-popup-menu": "^0.15.6",
+    "react-native-render-html": "^4.1.2",
+    "react-native-sensors": "^5.2.1",
+    "react-native-speedometer-chart": "^0.7.3",
+    "react-native-splash-screen": "^3.2.0",
+    "react-native-star-rating": "^1.1.0",
+    "react-native-svg": "^9.4.0",
+    "react-native-svg-charts": "^5.2.0",
+    "react-native-svg-uri": "^1.2.3",
+    "react-native-vector-icons": "^6.5.0",
+    "react-native-webview": "^5.12.0",
+    "react-navigation": "^3.11.0",
+    "tinycolor2": "^1.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.4.5",
+    "@babel/runtime": "7.4.5",
+    "babel-jest": "24.8.0",
+    "jest": "24.8.0",
+    "metro-react-native-babel-preset": "0.54.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  }
+}

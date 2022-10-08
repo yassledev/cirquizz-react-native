@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="6px" viewBox="0 0 14 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.57142857,10.9714286 C6.23417027,10.9714286 6.77142857,10.4341703 6.77142857,9.77142857 C6.77142857,9.10868687 6.23417027,8.57142857 5.57142857,8.57142857 C4.90868687,8.57142857 4.37142857,9.10868687 4.37142857,9.77142857 C4.37142857,10.4341703 4.90868687,10.9714286 5.57142857,10.9714286 Z M7.89581808,9.17142857 L11.6470391,9.17142857 C11.9134647,8.13629224 12.8531249,7.37142857 13.9714286,7.37142857 C15.296912,7.37142857 16.3714286,8.44594517 16.3714286,9.77142857 C16.3714286,11.096912 15.296912,12.1714286 13.9714286,12.1714286 C12.8531249,12.1714286 11.9134647,11.4065649 11.6470391,10.3714286 L7.89581808,10.3714286 C7.6293924,11.4065649 6.68973223,12.1714286 5.57142857,12.1714286 C4.24594517,12.1714286 3.17142857,11.096912 3.17142857,9.77142857 C3.17142857,8.44594517 4.24594517,7.37142857 5.57142857,7.37142857 C6.68973223,7.37142857 7.6293924,8.13629224 7.89581808,9.17142857 Z" id="path-1"></path>
+    </defs>
+    <g id="Hi-Fi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04-Homepage-Nearby-Parking-Copy" transform="translate(-297.000000, -485.000000)">
+            <g id="Nearby-parking" transform="translate(14.000000, 420.000000)">
+                <g id="Icons-/-Length" transform="translate(280.000000, 58.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Glyph" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <g id="Colors-/-Green" style="mix-blend-mode: screen;" mask="url(#mask-2)" fill="#0A2463" fill-rule="nonzero">
+                        <rect id="Colors-/-White" x="0" y="0" width="19" height="19"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="Page"></g>
+        <g id="Page"></g>
+        <g id="Page"></g>
+    </g>
+</svg>

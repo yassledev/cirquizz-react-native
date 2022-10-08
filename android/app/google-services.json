@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "773866343063",
+    "firebase_url": "https://cirquizz-1560416697492.firebaseio.com",
+    "project_id": "cirquizz-1560416697492",
+    "storage_bucket": "cirquizz-1560416697492.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773866343063:android:1777eb10ad5c8247",
+        "android_client_info": {
+          "package_name": "com.cirquizz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773866343063-46pi0e7qsdrjerq3vfh9su9fjfs8tv7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8404n7E4HaoAdrKMNi1524Xv8K6e5Oa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773866343063-46pi0e7qsdrjerq3vfh9su9fjfs8tv7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="272px" viewBox="0 0 375 272" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>mask-top</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="68.9886324%" x2="0%" y2="31.0113676%" id="linearGradient-1">
+            <stop stop-color="#0BE9AF" offset="0%"></stop>
+            <stop stop-color="#29FAC4" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="375 218.671656 268 195.219182 268 194 133 231.096362 0 203 0 -2.84217094e-14 375 -2.84217094e-14"></polygon>
+        <filter x="-17.1%" y="-24.2%" width="134.1%" height="155.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0782099185 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Hi-Fi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page"></g>
+        <g id="Page"></g>
+        <g id="Page"></g>
+        <g id="Game---prepa-Copy">
+            <g id="mask-top" transform="translate(0.000000, -5.000000)">
+                <g id="Path" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="illustration" transform="translate(51.000000, 102.000000)">
+                    <g id="accesories" transform="translate(17.000000, 0.000000)" fill="#22FFC6">
+                        <circle id="Oval" opacity="0.300000012" cx="95.5" cy="85.5" r="18.5"></circle>
+                        <circle id="Oval" opacity="0.699999988" cx="70.5" cy="22.5" r="7.5"></circle>
+                        <circle id="Oval" opacity="0.600000024" cx="7" cy="7" r="7"></circle>
+                    </g>
+                    <path d="M54.1144124,116.730423 L44.8232036,88.8567964 L16.9495772,79.5655876 C14.5588453,78.8048903 12.9288246,77.8268887 12.0594673,76.6315217 C11.1901101,75.4361547 11.1086091,74.1864667 11.8149618,72.8824374 C12.5213146,71.5784081 14.0154991,70.4373825 16.2975626,69.4593605 L93.5612988,33.435551 C97.0387375,31.9141767 99.4022498,31.7783335 100.651958,33.0280418 C101.901667,34.2777502 101.765823,36.6412625 100.244449,40.1187012 L64.0576358,117.382437 C63.0796139,119.664501 61.9657691,121.158685 60.7160607,121.865038 C59.4663524,122.571391 58.2438453,122.48989 57.0484783,121.620533 C55.8531113,120.751175 54.8751097,119.121155 54.1144124,116.730423 Z" id="Page-1" fill="#32D5AB"></path>
+                    <path d="M44.0006594,46.0792811 C19.6459152,48.1330942 1.72732015,55.0740355 1.72732015,63.3204246 C1.72732015,73.1834489 27.3601481,81.1790099 58.9798439,81.1790099 C90.5995396,81.1790099 116.232368,73.1834489 116.232368,63.3204246 C116.232368,57.2984856 106.676965,51.9726995 92.037646,48.7378419" id="Oval-2" stroke="#22FFC6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6" transform="translate(58.979844, 63.629146) rotate(27.000000) translate(-58.979844, -63.629146) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
